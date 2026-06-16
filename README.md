@@ -1,6 +1,6 @@
 # Trivy Incremental Scanning Experiment
 
-This repository contains the data, and analysis code used in the bachelor thesis:  
+This repository contains the data, and analysis code used in the study:  
 **Efficient Integration of Dependency Vulnerability Scanning in DevOps Pipelines**
 
 ## Structure
@@ -12,6 +12,6 @@ This repository contains the data, and analysis code used in the bachelor thesis
 
 
 ## Citation
-If you use this in academic work, please cite the associated bachelor thesis "Efficient Integration of Dependency Vulnerability Scanning in DevOps Pipelines"
+If you use this in academic work, please cite the associated study "Efficient Integration of Dependency Vulnerability Scanning in DevOps Pipelines"
 submitted to HTW Berlin by Tiphannie Margret Byakuleka, 2025.
 
